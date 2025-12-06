@@ -1,0 +1,5 @@
+{
+  "name": "AI Daily Brief",
+  "description": "An automated daily intelligence report generator that aggregates insights from top AI newsletters, deep-dive business blogs, and custom global monitoring alerts using Google Search Grounding.",
+  "requestFramePermissions": []
+}
